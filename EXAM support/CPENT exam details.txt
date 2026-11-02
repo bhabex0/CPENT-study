@@ -1,0 +1,36 @@
+The EC-Council CPENT Exam Blueprint is structured around a 30-day exam range consisting of 5 distinct practical challenge ranges (totaling 2,500 marks, or 500 marks per section):
+
+
+
+
+
+
+
+The 5 Exam Ranges & Scope
+
+• Active Directory Range (500 marks): AD enumeration, Kerberos attacks, and domain compromise (Tools: Nmap, Hydra, CrackMapExec, Plink).
+
+
+• Binaries & IoT Range (500 marks): Binary reverse engineering, debugging, and IoT/firmware analysis (Tools: GDB, Binwalk, PwnKit).
+
+
+• Capture the Flag (CTF) Range (500 marks): Multi-technique and multi-layer CTF challenge flags (Tools: ShellShock exploitation and custom scripts).
+
+
+• Operational Technology (OT) Range (500 marks): ICS/SCADA protocols and industrial network analysis (Tools: Modbus, tcpdump, Wireshark).
+
+
+• Pivoting & Double Pivoting Range (500 marks): Single and double pivoting, tunneling through internal segmented networks (Tools: Chisel, Proxychains, Impacket, CrackMapExec).
+
+
+
+
+
+Exam Format & Reporting Requirements
+
+• Time Structure: You are given a 30-day window after activating the dashboard, with hands-on execution flexibility split into either one 24-hour session or two 12-hour sessions.
+• Scoring:
+	• Passing score: 1,750 out of 2,500 (70%)
+	• LPT (Master) credential: 2,250 out of 2,500 (90%)
+
+• The Final Report: Unlike automated pass/fail CTF exams, CPENT requires a comprehensive, professional penetration testing report documenting your findings, steps, screenshots, command history, and business/technical remediation advice. You can review structure expectations via a CPENT Sample Penetration Testing Report.
