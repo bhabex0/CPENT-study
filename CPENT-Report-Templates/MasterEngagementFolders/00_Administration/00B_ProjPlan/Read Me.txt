@@ -1,0 +1,3 @@
+You can use OpenProj or similar software to open this project file.
+
+The OpenProj tool is available in the "Pre-penetration Testing Steps" folder of the CPENT Tools drive in iLabs.
